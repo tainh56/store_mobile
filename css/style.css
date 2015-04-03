@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+.clear{ clear:both;}
+.clean{ margin:0px; padding:0px;}
+.dot{
+	border-bottom:1px solid #ddd;}
+.dl-block{
+	display:block;}
+.ps-absolute{
+	position:absolute;}
+.marginauto{
+	margin:auto}
+/*padding*/
+.pd5x10{
+	padding:5px 10px;}
+.pd5x15{
+	padding:5px 15px;}
+.pd2x3{
+	padding:2px 3px;}
+.pd5{
+	padding:5px}
+.pd10{
+	padding:10px;}
+
+
+.size-300x150 {
+  height: 150px;
+  width: 300px;
+}
+/*Margin*/
+.mg3{ margin:3px;}
+.mg4{ margin:4px;}
+.mg5{ margin:5px;}
+.mg6{ margin:6px;}
+.mg7{ margin:7px;}
+.mg4x4{
+	margin:4px 4px;}
+.mg5x5{
+	margin:5px 5px;}
+.mg5x10{
+	margin:5px 10px;}
+	
+.mg-left20{
+	margin-left:20px;}
+.mg-left30{
+	margin-left:30px;}
+.mg-left40{
+	margin-left:40px;}
+
+.mg-top5{
+	margin-top:5px;}
+.mg-top10{
+	margin-top:10px;}
+
+.left-fl{
+	float:left;}
+	
+/*Width Block*/
+.wp100{
+	width:100%;}
+.wp32{
+	width:32%;}
+.w1020px{
+	width:1020px;}
+.w1000px{
+	width:1000px;}
+.w900px{
+	width:900px;}
+.w800px{
+	width:800px;}
+.w780px{
+	width:780px;}
+.w775px{
+	width:775px;}
+.w760px{
+	width:760px;}
+.w750px{
+	width:750px;}
+.w730px{
+	width:730px;}
+.w720px{
+	width:720px;}
+.w700px{
+	width:700px;}
+.w600px{
+	width:600px;}
+.w500px{
+	width:500px;}
+.w400px{
+	width:400px;}
+.w300px{
+	width:300px;}
+.w255px{
+	width:255px;}
+.w250px{
+	width:250px;}
+.w245px{
+	width:245px;}
+.w240px{
+	width:240px;}
+.w230px{
+	width:230px;}
+.w220px{
+	width:220px;}
+.w210px{
+	width:210px;}
+.w200px{
+	width:200px;}
+.w190px{
+	width:190px;}
+.w155px{
+	width:155px;}
+.w150px{
+	width:150px;}
+.w140px{
+	width:140px;}
+.w130px{
+	width:130px;}
+.w120px{
+	width:120px;}
+.w110px{
+	width:110px;}
+.w100px{
+	width:100px;}
+.block{
+	height:auto; display:block;}
